@@ -29,7 +29,7 @@ export default function Index() {
           .times(width.plus(0.15))
           .times(price)
           .times(1.3)
-          .plus(4100)
+          .plus(3500)
           .times(3)
           .plus(data.leg)
           .toNumber();
